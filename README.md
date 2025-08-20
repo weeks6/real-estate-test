@@ -1,7 +1,7 @@
 # Test task done in Nuxt3 + TypeScript
 
 A simple page with local data and some sorting/filtering logic
-<img width="1898" height="914" alt="image" src="https://github.com/user-attachments/assets/da99c0b0-b3aa-4f87-878e-a2b58ce282e0" />
+<img width="1898" height="912" alt="image" src="https://github.com/user-attachments/assets/971e96ad-2ad3-4851-9845-8058a9d8ed9a" />
 
 
 # Nuxt Minimal Starter
