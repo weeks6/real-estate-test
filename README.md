@@ -1,3 +1,9 @@
+# Test task done in Nuxt3 + TypeScript
+
+A simple page with local data and some sorting/filtering logic
+<img width="1898" height="914" alt="image" src="https://github.com/user-attachments/assets/da99c0b0-b3aa-4f87-878e-a2b58ce282e0" />
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -37,39 +43,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
