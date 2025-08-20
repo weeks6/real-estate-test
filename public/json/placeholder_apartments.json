@@ -1,0 +1,1205 @@
+{
+	"data": [
+		{
+			"area": 58.3,
+			"price": 5341465,
+			"floor": 1,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 631,
+			"plan_url": "/images/flat furniture.png",
+			"id": 1
+		},
+		{
+			"area": 38.8,
+			"price": 12454509,
+			"floor": 3,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 713,
+			"plan_url": "/images/flat furniture.png",
+			"id": 2
+		},
+		{
+			"area": 48.2,
+			"price": 14420123,
+			"floor": 12,
+			"total_floors": 13,
+			"rooms": 1,
+			"number": 736,
+			"plan_url": "/images/flat furniture.png",
+			"id": 3
+		},
+		{
+			"area": 47.2,
+			"price": 19202198,
+			"floor": 6,
+			"total_floors": 9,
+			"rooms": 1,
+			"number": 282,
+			"plan_url": "/images/flat furniture.png",
+			"id": 4
+		},
+		{
+			"area": 35.4,
+			"price": 16238322,
+			"floor": 3,
+			"total_floors": 9,
+			"rooms": 3,
+			"number": 898,
+			"plan_url": "/images/flat furniture.png",
+			"id": 5
+		},
+		{
+			"area": 55.1,
+			"price": 3370865,
+			"floor": 9,
+			"total_floors": 9,
+			"rooms": 2,
+			"number": 532,
+			"plan_url": "/images/flat furniture.png",
+			"id": 6
+		},
+		{
+			"area": 39.1,
+			"price": 20950173,
+			"floor": 5,
+			"total_floors": 10,
+			"rooms": 2,
+			"number": 139,
+			"plan_url": "/images/flat furniture.png",
+			"id": 7
+		},
+		{
+			"area": 67.7,
+			"price": 22866943,
+			"floor": 11,
+			"total_floors": 15,
+			"rooms": 2,
+			"number": 261,
+			"plan_url": "/images/flat furniture.png",
+			"id": 8
+		},
+		{
+			"area": 47.8,
+			"price": 12382173,
+			"floor": 7,
+			"total_floors": 9,
+			"rooms": 3,
+			"number": 184,
+			"plan_url": "/images/flat furniture.png",
+			"id": 9
+		},
+		{
+			"area": 65.4,
+			"price": 9460819,
+			"floor": 4,
+			"total_floors": 10,
+			"rooms": 1,
+			"number": 157,
+			"plan_url": "/images/flat furniture.png",
+			"id": 10
+		},
+		{
+			"area": 49.9,
+			"price": 4654373,
+			"floor": 2,
+			"total_floors": 15,
+			"rooms": 2,
+			"number": 963,
+			"plan_url": "/images/flat furniture.png",
+			"id": 11
+		},
+		{
+			"area": 46.3,
+			"price": 16871796,
+			"floor": 8,
+			"total_floors": 25,
+			"rooms": 1,
+			"number": 432,
+			"plan_url": "/images/flat furniture.png",
+			"id": 12
+		},
+		{
+			"area": 48.8,
+			"price": 22137529,
+			"floor": 16,
+			"total_floors": 20,
+			"rooms": 1,
+			"number": 201,
+			"plan_url": "/images/flat furniture.png",
+			"id": 13
+		},
+		{
+			"area": 50.3,
+			"price": 24024644,
+			"floor": 1,
+			"total_floors": 24,
+			"rooms": 1,
+			"number": 591,
+			"plan_url": "/images/flat furniture.png",
+			"id": 14
+		},
+		{
+			"area": 32.1,
+			"price": 11469210,
+			"floor": 5,
+			"total_floors": 15,
+			"rooms": 2,
+			"number": 548,
+			"plan_url": "/images/flat furniture.png",
+			"id": 15
+		},
+		{
+			"area": 65.9,
+			"price": 16840911,
+			"floor": 5,
+			"total_floors": 15,
+			"rooms": 1,
+			"number": 464,
+			"plan_url": "/images/flat furniture.png",
+			"id": 16
+		},
+		{
+			"area": 69.5,
+			"price": 3073092,
+			"floor": 2,
+			"total_floors": 17,
+			"rooms": 3,
+			"number": 940,
+			"plan_url": "/images/flat furniture.png",
+			"id": 17
+		},
+		{
+			"area": 39.4,
+			"price": 5799376,
+			"floor": 7,
+			"total_floors": 19,
+			"rooms": 1,
+			"number": 445,
+			"plan_url": "/images/flat furniture.png",
+			"id": 18
+		},
+		{
+			"area": 63,
+			"price": 11801201,
+			"floor": 8,
+			"total_floors": 19,
+			"rooms": 3,
+			"number": 829,
+			"plan_url": "/images/flat furniture.png",
+			"id": 19
+		},
+		{
+			"area": 59.3,
+			"price": 12986251,
+			"floor": 6,
+			"total_floors": 9,
+			"rooms": 3,
+			"number": 977,
+			"plan_url": "/images/flat furniture.png",
+			"id": 20
+		},
+		{
+			"area": 61.6,
+			"price": 7632747,
+			"floor": 11,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 878,
+			"plan_url": "/images/flat furniture.png",
+			"id": 21
+		},
+		{
+			"area": 43,
+			"price": 13036576,
+			"floor": 2,
+			"total_floors": 12,
+			"rooms": 1,
+			"number": 727,
+			"plan_url": "/images/flat furniture.png",
+			"id": 22
+		},
+		{
+			"area": 34.5,
+			"price": 4934490,
+			"floor": 13,
+			"total_floors": 14,
+			"rooms": 3,
+			"number": 864,
+			"plan_url": "/images/flat furniture.png",
+			"id": 23
+		},
+		{
+			"area": 44.3,
+			"price": 22117447,
+			"floor": 10,
+			"total_floors": 22,
+			"rooms": 3,
+			"number": 497,
+			"plan_url": "/images/flat furniture.png",
+			"id": 24
+		},
+		{
+			"area": 63.6,
+			"price": 23866725,
+			"floor": 21,
+			"total_floors": 23,
+			"rooms": 2,
+			"number": 869,
+			"plan_url": "/images/flat furniture.png",
+			"id": 25
+		},
+		{
+			"area": 65.1,
+			"price": 17830319,
+			"floor": 3,
+			"total_floors": 16,
+			"rooms": 3,
+			"number": 222,
+			"plan_url": "/images/flat furniture.png",
+			"id": 26
+		},
+		{
+			"area": 62.6,
+			"price": 18560934,
+			"floor": 7,
+			"total_floors": 11,
+			"rooms": 3,
+			"number": 107,
+			"plan_url": "/images/flat furniture.png",
+			"id": 27
+		},
+		{
+			"area": 40.6,
+			"price": 13547801,
+			"floor": 15,
+			"total_floors": 16,
+			"rooms": 3,
+			"number": 925,
+			"plan_url": "/images/flat furniture.png",
+			"id": 28
+		},
+		{
+			"area": 58.4,
+			"price": 5735442,
+			"floor": 12,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 207,
+			"plan_url": "/images/flat furniture.png",
+			"id": 29
+		},
+		{
+			"area": 43.3,
+			"price": 15225284,
+			"floor": 7,
+			"total_floors": 18,
+			"rooms": 3,
+			"number": 262,
+			"plan_url": "/images/flat furniture.png",
+			"id": 30
+		},
+		{
+			"area": 64.5,
+			"price": 20169019,
+			"floor": 3,
+			"total_floors": 19,
+			"rooms": 1,
+			"number": 465,
+			"plan_url": "/images/flat furniture.png",
+			"id": 31
+		},
+		{
+			"area": 47.9,
+			"price": 5394256,
+			"floor": 9,
+			"total_floors": 12,
+			"rooms": 2,
+			"number": 151,
+			"plan_url": "/images/flat furniture.png",
+			"id": 32
+		},
+		{
+			"area": 52.8,
+			"price": 18584496,
+			"floor": 1,
+			"total_floors": 14,
+			"rooms": 3,
+			"number": 483,
+			"plan_url": "/images/flat furniture.png",
+			"id": 33
+		},
+		{
+			"area": 45.5,
+			"price": 3135158,
+			"floor": 10,
+			"total_floors": 22,
+			"rooms": 2,
+			"number": 943,
+			"plan_url": "/images/flat furniture.png",
+			"id": 34
+		},
+		{
+			"area": 56.9,
+			"price": 13994094,
+			"floor": 12,
+			"total_floors": 21,
+			"rooms": 1,
+			"number": 947,
+			"plan_url": "/images/flat furniture.png",
+			"id": 35
+		},
+		{
+			"area": 53.4,
+			"price": 22176460,
+			"floor": 9,
+			"total_floors": 9,
+			"rooms": 2,
+			"number": 390,
+			"plan_url": "/images/flat furniture.png",
+			"id": 36
+		},
+		{
+			"area": 32.7,
+			"price": 5909300,
+			"floor": 5,
+			"total_floors": 20,
+			"rooms": 2,
+			"number": 266,
+			"plan_url": "/images/flat furniture.png",
+			"id": 37
+		},
+		{
+			"area": 68.6,
+			"price": 18518743,
+			"floor": 15,
+			"total_floors": 18,
+			"rooms": 1,
+			"number": 568,
+			"plan_url": "/images/flat furniture.png",
+			"id": 38
+		},
+		{
+			"area": 58.3,
+			"price": 24264780,
+			"floor": 8,
+			"total_floors": 12,
+			"rooms": 2,
+			"number": 588,
+			"plan_url": "/images/flat furniture.png",
+			"id": 39
+		},
+		{
+			"area": 47.6,
+			"price": 3216851,
+			"floor": 2,
+			"total_floors": 23,
+			"rooms": 3,
+			"number": 701,
+			"plan_url": "/images/flat furniture.png",
+			"id": 40
+		},
+		{
+			"area": 67.1,
+			"price": 15239979,
+			"floor": 8,
+			"total_floors": 22,
+			"rooms": 3,
+			"number": 354,
+			"plan_url": "/images/flat furniture.png",
+			"id": 41
+		},
+		{
+			"area": 47.5,
+			"price": 8021125,
+			"floor": 4,
+			"total_floors": 9,
+			"rooms": 2,
+			"number": 187,
+			"plan_url": "/images/flat furniture.png",
+			"id": 42
+		},
+		{
+			"area": 51.6,
+			"price": 7946493,
+			"floor": 6,
+			"total_floors": 21,
+			"rooms": 2,
+			"number": 832,
+			"plan_url": "/images/flat furniture.png",
+			"id": 43
+		},
+		{
+			"area": 39,
+			"price": 16704168,
+			"floor": 10,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 349,
+			"plan_url": "/images/flat furniture.png",
+			"id": 44
+		},
+		{
+			"area": 33,
+			"price": 19739655,
+			"floor": 6,
+			"total_floors": 9,
+			"rooms": 3,
+			"number": 409,
+			"plan_url": "/images/flat furniture.png",
+			"id": 45
+		},
+		{
+			"area": 39.1,
+			"price": 11858558,
+			"floor": 2,
+			"total_floors": 12,
+			"rooms": 1,
+			"number": 617,
+			"plan_url": "/images/flat furniture.png",
+			"id": 46
+		},
+		{
+			"area": 41.6,
+			"price": 21940248,
+			"floor": 1,
+			"total_floors": 19,
+			"rooms": 3,
+			"number": 770,
+			"plan_url": "/images/flat furniture.png",
+			"id": 47
+		},
+		{
+			"area": 60.2,
+			"price": 18959700,
+			"floor": 10,
+			"total_floors": 16,
+			"rooms": 1,
+			"number": 870,
+			"plan_url": "/images/flat furniture.png",
+			"id": 48
+		},
+		{
+			"area": 35.8,
+			"price": 9694251,
+			"floor": 9,
+			"total_floors": 9,
+			"rooms": 1,
+			"number": 682,
+			"plan_url": "/images/flat furniture.png",
+			"id": 49
+		},
+		{
+			"area": 49,
+			"price": 19892112,
+			"floor": 12,
+			"total_floors": 16,
+			"rooms": 3,
+			"number": 841,
+			"plan_url": "/images/flat furniture.png",
+			"id": 50
+		},
+		{
+			"area": 62,
+			"price": 3527595,
+			"floor": 13,
+			"total_floors": 16,
+			"rooms": 3,
+			"number": 189,
+			"plan_url": "/images/flat furniture.png",
+			"id": 51
+		},
+		{
+			"area": 31.2,
+			"price": 13649629,
+			"floor": 17,
+			"total_floors": 20,
+			"rooms": 1,
+			"number": 370,
+			"plan_url": "/images/flat furniture.png",
+			"id": 52
+		},
+		{
+			"area": 65,
+			"price": 9458664,
+			"floor": 12,
+			"total_floors": 21,
+			"rooms": 3,
+			"number": 257,
+			"plan_url": "/images/flat furniture.png",
+			"id": 53
+		},
+		{
+			"area": 69.1,
+			"price": 24717451,
+			"floor": 9,
+			"total_floors": 11,
+			"rooms": 2,
+			"number": 829,
+			"plan_url": "/images/flat furniture.png",
+			"id": 54
+		},
+		{
+			"area": 67.1,
+			"price": 9247037,
+			"floor": 2,
+			"total_floors": 21,
+			"rooms": 3,
+			"number": 134,
+			"plan_url": "/images/flat furniture.png",
+			"id": 55
+		},
+		{
+			"area": 36.6,
+			"price": 22151144,
+			"floor": 1,
+			"total_floors": 12,
+			"rooms": 3,
+			"number": 219,
+			"plan_url": "/images/flat furniture.png",
+			"id": 56
+		},
+		{
+			"area": 39.4,
+			"price": 4565108,
+			"floor": 22,
+			"total_floors": 25,
+			"rooms": 1,
+			"number": 759,
+			"plan_url": "/images/flat furniture.png",
+			"id": 57
+		},
+		{
+			"area": 65.6,
+			"price": 3585478,
+			"floor": 8,
+			"total_floors": 14,
+			"rooms": 3,
+			"number": 354,
+			"plan_url": "/images/flat furniture.png",
+			"id": 58
+		},
+		{
+			"area": 58.7,
+			"price": 21046255,
+			"floor": 5,
+			"total_floors": 10,
+			"rooms": 1,
+			"number": 614,
+			"plan_url": "/images/flat furniture.png",
+			"id": 59
+		},
+		{
+			"area": 46.2,
+			"price": 17993535,
+			"floor": 1,
+			"total_floors": 14,
+			"rooms": 2,
+			"number": 199,
+			"plan_url": "/images/flat furniture.png",
+			"id": 60
+		},
+		{
+			"area": 38.1,
+			"price": 7886079,
+			"floor": 11,
+			"total_floors": 21,
+			"rooms": 3,
+			"number": 124,
+			"plan_url": "/images/flat furniture.png",
+			"id": 61
+		},
+		{
+			"area": 36.6,
+			"price": 13289175,
+			"floor": 9,
+			"total_floors": 20,
+			"rooms": 2,
+			"number": 386,
+			"plan_url": "/images/flat furniture.png",
+			"id": 62
+		},
+		{
+			"area": 66.3,
+			"price": 19617553,
+			"floor": 19,
+			"total_floors": 23,
+			"rooms": 1,
+			"number": 471,
+			"plan_url": "/images/flat furniture.png",
+			"id": 63
+		},
+		{
+			"area": 45.6,
+			"price": 4619558,
+			"floor": 11,
+			"total_floors": 23,
+			"rooms": 1,
+			"number": 398,
+			"plan_url": "/images/flat furniture.png",
+			"id": 64
+		},
+		{
+			"area": 55,
+			"price": 13154139,
+			"floor": 8,
+			"total_floors": 15,
+			"rooms": 3,
+			"number": 331,
+			"plan_url": "/images/flat furniture.png",
+			"id": 65
+		},
+		{
+			"area": 50.3,
+			"price": 7598879,
+			"floor": 25,
+			"total_floors": 25,
+			"rooms": 3,
+			"number": 805,
+			"plan_url": "/images/flat furniture.png",
+			"id": 66
+		},
+		{
+			"area": 55.1,
+			"price": 24403583,
+			"floor": 11,
+			"total_floors": 16,
+			"rooms": 3,
+			"number": 568,
+			"plan_url": "/images/flat furniture.png",
+			"id": 67
+		},
+		{
+			"area": 45.9,
+			"price": 20942851,
+			"floor": 3,
+			"total_floors": 9,
+			"rooms": 1,
+			"number": 507,
+			"plan_url": "/images/flat furniture.png",
+			"id": 68
+		},
+		{
+			"area": 47.8,
+			"price": 15454045,
+			"floor": 8,
+			"total_floors": 19,
+			"rooms": 2,
+			"number": 749,
+			"plan_url": "/images/flat furniture.png",
+			"id": 69
+		},
+		{
+			"area": 35.4,
+			"price": 20629354,
+			"floor": 9,
+			"total_floors": 19,
+			"rooms": 3,
+			"number": 915,
+			"plan_url": "/images/flat furniture.png",
+			"id": 70
+		},
+		{
+			"area": 52.5,
+			"price": 9612843,
+			"floor": 7,
+			"total_floors": 10,
+			"rooms": 3,
+			"number": 909,
+			"plan_url": "/images/flat furniture.png",
+			"id": 71
+		},
+		{
+			"area": 53.8,
+			"price": 23076622,
+			"floor": 9,
+			"total_floors": 12,
+			"rooms": 2,
+			"number": 770,
+			"plan_url": "/images/flat furniture.png",
+			"id": 72
+		},
+		{
+			"area": 59.6,
+			"price": 12564171,
+			"floor": 10,
+			"total_floors": 24,
+			"rooms": 1,
+			"number": 903,
+			"plan_url": "/images/flat furniture.png",
+			"id": 73
+		},
+		{
+			"area": 65,
+			"price": 5554737,
+			"floor": 1,
+			"total_floors": 22,
+			"rooms": 3,
+			"number": 474,
+			"plan_url": "/images/flat furniture.png",
+			"id": 74
+		},
+		{
+			"area": 50.6,
+			"price": 18492238,
+			"floor": 14,
+			"total_floors": 19,
+			"rooms": 3,
+			"number": 613,
+			"plan_url": "/images/flat furniture.png",
+			"id": 75
+		},
+		{
+			"area": 42.4,
+			"price": 9920470,
+			"floor": 5,
+			"total_floors": 22,
+			"rooms": 3,
+			"number": 160,
+			"plan_url": "/images/flat furniture.png",
+			"id": 76
+		},
+		{
+			"area": 33.1,
+			"price": 9276354,
+			"floor": 6,
+			"total_floors": 20,
+			"rooms": 1,
+			"number": 346,
+			"plan_url": "/images/flat furniture.png",
+			"id": 77
+		},
+		{
+			"area": 30.9,
+			"price": 24766089,
+			"floor": 3,
+			"total_floors": 10,
+			"rooms": 2,
+			"number": 487,
+			"plan_url": "/images/flat furniture.png",
+			"id": 78
+		},
+		{
+			"area": 38.4,
+			"price": 17647976,
+			"floor": 7,
+			"total_floors": 25,
+			"rooms": 1,
+			"number": 863,
+			"plan_url": "/images/flat furniture.png",
+			"id": 79
+		},
+		{
+			"area": 34.9,
+			"price": 10651081,
+			"floor": 11,
+			"total_floors": 13,
+			"rooms": 1,
+			"number": 609,
+			"plan_url": "/images/flat furniture.png",
+			"id": 80
+		},
+		{
+			"area": 66.1,
+			"price": 16648185,
+			"floor": 11,
+			"total_floors": 12,
+			"rooms": 3,
+			"number": 787,
+			"plan_url": "/images/flat furniture.png",
+			"id": 81
+		},
+		{
+			"area": 44.9,
+			"price": 7178120,
+			"floor": 21,
+			"total_floors": 23,
+			"rooms": 3,
+			"number": 935,
+			"plan_url": "/images/flat furniture.png",
+			"id": 82
+		},
+		{
+			"area": 50,
+			"price": 20849145,
+			"floor": 11,
+			"total_floors": 22,
+			"rooms": 3,
+			"number": 839,
+			"plan_url": "/images/flat furniture.png",
+			"id": 83
+		},
+		{
+			"area": 30.5,
+			"price": 24916949,
+			"floor": 10,
+			"total_floors": 14,
+			"rooms": 2,
+			"number": 504,
+			"plan_url": "/images/flat furniture.png",
+			"id": 84
+		},
+		{
+			"area": 65.8,
+			"price": 17863135,
+			"floor": 17,
+			"total_floors": 20,
+			"rooms": 3,
+			"number": 869,
+			"plan_url": "/images/flat furniture.png",
+			"id": 85
+		},
+		{
+			"area": 50.5,
+			"price": 19537973,
+			"floor": 12,
+			"total_floors": 20,
+			"rooms": 2,
+			"number": 727,
+			"plan_url": "/images/flat furniture.png",
+			"id": 86
+		},
+		{
+			"area": 42.9,
+			"price": 24485744,
+			"floor": 21,
+			"total_floors": 22,
+			"rooms": 1,
+			"number": 799,
+			"plan_url": "/images/flat furniture.png",
+			"id": 87
+		},
+		{
+			"area": 45.9,
+			"price": 3078943,
+			"floor": 6,
+			"total_floors": 23,
+			"rooms": 1,
+			"number": 526,
+			"plan_url": "/images/flat furniture.png",
+			"id": 88
+		},
+		{
+			"area": 62.9,
+			"price": 24192336,
+			"floor": 2,
+			"total_floors": 11,
+			"rooms": 2,
+			"number": 301,
+			"plan_url": "/images/flat furniture.png",
+			"id": 89
+		},
+		{
+			"area": 45.3,
+			"price": 14603542,
+			"floor": 7,
+			"total_floors": 11,
+			"rooms": 1,
+			"number": 455,
+			"plan_url": "/images/flat furniture.png",
+			"id": 90
+		},
+		{
+			"area": 57.1,
+			"price": 24634869,
+			"floor": 4,
+			"total_floors": 13,
+			"rooms": 2,
+			"number": 178,
+			"plan_url": "/images/flat furniture.png",
+			"id": 91
+		},
+		{
+			"area": 60.4,
+			"price": 21860341,
+			"floor": 13,
+			"total_floors": 14,
+			"rooms": 1,
+			"number": 637,
+			"plan_url": "/images/flat furniture.png",
+			"id": 92
+		},
+		{
+			"area": 60.9,
+			"price": 15201662,
+			"floor": 13,
+			"total_floors": 17,
+			"rooms": 2,
+			"number": 216,
+			"plan_url": "/images/flat furniture.png",
+			"id": 93
+		},
+		{
+			"area": 39.7,
+			"price": 7545227,
+			"floor": 1,
+			"total_floors": 18,
+			"rooms": 2,
+			"number": 719,
+			"plan_url": "/images/flat furniture.png",
+			"id": 94
+		},
+		{
+			"area": 49.1,
+			"price": 6013542,
+			"floor": 3,
+			"total_floors": 15,
+			"rooms": 2,
+			"number": 181,
+			"plan_url": "/images/flat furniture.png",
+			"id": 95
+		},
+		{
+			"area": 32.2,
+			"price": 7004947,
+			"floor": 12,
+			"total_floors": 15,
+			"rooms": 3,
+			"number": 513,
+			"plan_url": "/images/flat furniture.png",
+			"id": 96
+		},
+		{
+			"area": 33.2,
+			"price": 9968485,
+			"floor": 8,
+			"total_floors": 16,
+			"rooms": 2,
+			"number": 892,
+			"plan_url": "/images/flat furniture.png",
+			"id": 97
+		},
+		{
+			"area": 68.1,
+			"price": 19251047,
+			"floor": 11,
+			"total_floors": 19,
+			"rooms": 2,
+			"number": 750,
+			"plan_url": "/images/flat furniture.png",
+			"id": 98
+		},
+		{
+			"area": 42.5,
+			"price": 17827675,
+			"floor": 6,
+			"total_floors": 19,
+			"rooms": 1,
+			"number": 142,
+			"plan_url": "/images/flat furniture.png",
+			"id": 99
+		},
+		{
+			"area": 66.4,
+			"price": 20092666,
+			"floor": 12,
+			"total_floors": 12,
+			"rooms": 2,
+			"number": 727,
+			"plan_url": "/images/flat furniture.png",
+			"id": 100
+		},
+		{
+			"area": 49.1,
+			"price": 14432707,
+			"floor": 13,
+			"total_floors": 13,
+			"rooms": 3,
+			"number": 542,
+			"plan_url": "/images/flat furniture.png",
+			"id": 101
+		},
+		{
+			"area": 49.9,
+			"price": 21258093,
+			"floor": 4,
+			"total_floors": 12,
+			"rooms": 3,
+			"number": 509,
+			"plan_url": "/images/flat furniture.png",
+			"id": 102
+		},
+		{
+			"area": 54,
+			"price": 23347608,
+			"floor": 7,
+			"total_floors": 25,
+			"rooms": 1,
+			"number": 990,
+			"plan_url": "/images/flat furniture.png",
+			"id": 103
+		},
+		{
+			"area": 51.5,
+			"price": 10087900,
+			"floor": 5,
+			"total_floors": 13,
+			"rooms": 1,
+			"number": 128,
+			"plan_url": "/images/flat furniture.png",
+			"id": 104
+		},
+		{
+			"area": 69.5,
+			"price": 23331856,
+			"floor": 17,
+			"total_floors": 17,
+			"rooms": 3,
+			"number": 675,
+			"plan_url": "/images/flat furniture.png",
+			"id": 105
+		},
+		{
+			"area": 67.5,
+			"price": 23221638,
+			"floor": 3,
+			"total_floors": 25,
+			"rooms": 2,
+			"number": 360,
+			"plan_url": "/images/flat furniture.png",
+			"id": 106
+		},
+		{
+			"area": 57,
+			"price": 20242906,
+			"floor": 14,
+			"total_floors": 20,
+			"rooms": 1,
+			"number": 400,
+			"plan_url": "/images/flat furniture.png",
+			"id": 107
+		},
+		{
+			"area": 52.3,
+			"price": 10662069,
+			"floor": 8,
+			"total_floors": 18,
+			"rooms": 1,
+			"number": 269,
+			"plan_url": "/images/flat furniture.png",
+			"id": 108
+		},
+		{
+			"area": 41.1,
+			"price": 6175753,
+			"floor": 7,
+			"total_floors": 11,
+			"rooms": 2,
+			"number": 646,
+			"plan_url": "/images/flat furniture.png",
+			"id": 109
+		},
+		{
+			"area": 41.3,
+			"price": 16175309,
+			"floor": 9,
+			"total_floors": 15,
+			"rooms": 3,
+			"number": 231,
+			"plan_url": "/images/flat furniture.png",
+			"id": 110
+		},
+		{
+			"area": 56.1,
+			"price": 16033085,
+			"floor": 8,
+			"total_floors": 9,
+			"rooms": 3,
+			"number": 987,
+			"plan_url": "/images/flat furniture.png",
+			"id": 111
+		},
+		{
+			"area": 52.2,
+			"price": 12945457,
+			"floor": 6,
+			"total_floors": 10,
+			"rooms": 3,
+			"number": 899,
+			"plan_url": "/images/flat furniture.png",
+			"id": 112
+		},
+		{
+			"area": 42.3,
+			"price": 21254840,
+			"floor": 18,
+			"total_floors": 21,
+			"rooms": 2,
+			"number": 191,
+			"plan_url": "/images/flat furniture.png",
+			"id": 113
+		},
+		{
+			"area": 54.2,
+			"price": 14800117,
+			"floor": 16,
+			"total_floors": 23,
+			"rooms": 3,
+			"number": 435,
+			"plan_url": "/images/flat furniture.png",
+			"id": 114
+		},
+		{
+			"area": 33.8,
+			"price": 21394073,
+			"floor": 13,
+			"total_floors": 25,
+			"rooms": 2,
+			"number": 569,
+			"plan_url": "/images/flat furniture.png",
+			"id": 115
+		},
+		{
+			"area": 53.7,
+			"price": 8507869,
+			"floor": 13,
+			"total_floors": 16,
+			"rooms": 2,
+			"number": 911,
+			"plan_url": "/images/flat furniture.png",
+			"id": 116
+		},
+		{
+			"area": 67.5,
+			"price": 12391597,
+			"floor": 21,
+			"total_floors": 24,
+			"rooms": 3,
+			"number": 261,
+			"plan_url": "/images/flat furniture.png",
+			"id": 117
+		},
+		{
+			"area": 62.7,
+			"price": 5551386,
+			"floor": 6,
+			"total_floors": 14,
+			"rooms": 2,
+			"number": 587,
+			"plan_url": "/images/flat furniture.png",
+			"id": 118
+		},
+		{
+			"area": 63.1,
+			"price": 3620556,
+			"floor": 4,
+			"total_floors": 12,
+			"rooms": 3,
+			"number": 327,
+			"plan_url": "/images/flat furniture.png",
+			"id": 119
+		},
+		{
+			"area": 64.7,
+			"price": 24930739,
+			"floor": 4,
+			"total_floors": 14,
+			"rooms": 2,
+			"number": 301,
+			"plan_url": "/images/flat furniture.png",
+			"id": 120
+		}
+	],
+	"count": 120
+}
